@@ -6,4 +6,7 @@ MediaPipe is an open-source framework for building pipelines to perform computer
 For creating a hand gesture brightness controller the given library you'll need
 
 #Foreign Library:
-1. 
+1. Open-CV
+2. mediapipe
+3. Screen Brightness Control
+4. numpy
