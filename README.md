@@ -7,8 +7,9 @@ For creating a hand gesture brightness controller the given library you'll need
 
 ### Foreign Library:
 - Open-CV
-2. mediapipe
-3. Screen Brightness Control
-4. numpy
+- mediapipe
+- Screen Brightness Control
+- numpy
 
 ### Build-In Library:
+- python-math
